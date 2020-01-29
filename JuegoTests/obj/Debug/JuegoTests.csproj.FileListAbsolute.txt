@@ -1,0 +1,57 @@
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\JuegoTests.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\JuegoTests.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.csprojAssemblyReference.cache
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.csproj.CopyComplete
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.pdb
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\JuegoTests.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\JuegoTests.pdb
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.csprojAssemblyReference.cache
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.csproj.CopyComplete
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoTests\obj\Debug\JuegoTests.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\JuegoTests.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\JuegoTests.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\obj\Debug\JuegoTests.csprojAssemblyReference.cache
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\obj\Debug\JuegoTests.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\obj\Debug\JuegoTests.csproj.CopyComplete
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\obj\Debug\JuegoTests.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoTests\obj\Debug\JuegoTests.pdb

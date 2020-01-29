@@ -1,0 +1,22 @@
+c:\users\ucsea12\documents\visual studio 2015\Projects\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.csprojResolveAssemblyReference.cache
+c:\users\ucsea12\documents\visual studio 2015\Projects\JuegoCromy\JuegoCromy\bin\Debug\JuegoCromy.dll
+c:\users\ucsea12\documents\visual studio 2015\Projects\JuegoCromy\JuegoCromy\bin\Debug\JuegoCromy.pdb
+c:\users\ucsea12\documents\visual studio 2015\Projects\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.dll
+c:\users\ucsea12\documents\visual studio 2015\Projects\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\bin\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\bin\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.csprojAssemblyReference.cache
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoCromy\bin\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoCromy\bin\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.csprojAssemblyReference.cache
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\V1 - Compatible\JuegoCromy\JuegoCromy\obj\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoCromy\bin\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoCromy\bin\Debug\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoCromy\obj\Debug\JuegoCromy.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoCromy\obj\Debug\JuegoCromy.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\JuegoCromy\obj\Debug\JuegoCromy.pdb

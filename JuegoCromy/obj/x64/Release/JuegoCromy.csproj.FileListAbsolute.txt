@@ -1,0 +1,6 @@
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\bin\x64\Release\JuegoCromy.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\bin\x64\Release\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\obj\x64\Release\JuegoCromy.csprojAssemblyReference.cache
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\obj\x64\Release\JuegoCromy.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\obj\x64\Release\JuegoCromy.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\V1 - Compatible\JuegoCromy\JuegoCromy\obj\x64\Release\JuegoCromy.pdb

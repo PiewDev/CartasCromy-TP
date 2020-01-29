@@ -1,0 +1,262 @@
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\csc.exe
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\vbc.exe
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\NotificationApp.dll.config
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\NotificationApp.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\NotificationApp.pdb
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Antlr3.Runtime.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Web.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Newtonsoft.Json.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Owin.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.Helpers.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.Mvc.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.Optimization.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.Razor.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\WebGrease.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Web.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.Helpers.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.Mvc.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.Optimization.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.Razor.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Antlr3.Runtime.pdb
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\bin\Newtonsoft.Json.xml
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csprojResolveAssemblyReference.cache
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.dll
+C:\Users\ucsea12\Downloads\SignalR-Demo\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.pdb
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\csc.exe
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\System.Collections.Immutable.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\System.Reflection.Metadata.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\vbc.exe
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\VBCSCompiler.exe
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\roslyn\VBCSCompiler.exe.config
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\NotificationApp.dll.config
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\NotificationApp.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\NotificationApp.pdb
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Antlr3.Runtime.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.DependencyCollector.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Web.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.WindowsServer.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.ApplicationInsights.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.Core.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Security.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.Web.Infrastructure.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Newtonsoft.Json.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Owin.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.Helpers.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.Mvc.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.Optimization.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.Razor.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Deployment.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Razor.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\WebGrease.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.DependencyCollector.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Web.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AI.WindowsServer.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.ApplicationInsights.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.Core.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Security.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.Helpers.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.Mvc.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.Optimization.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.Razor.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Deployment.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Razor.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Antlr3.Runtime.pdb
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\bin\Newtonsoft.Json.xml
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csprojAssemblyReference.cache
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csproj.CoreCompileInputs.cache
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csproj.CopyComplete
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.dll
+I:\Cromy\SignalR-Demo Profe\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\csc.exe
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\vbc.exe
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\NotificationApp.dll.config
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\NotificationApp.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\NotificationApp.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Antlr3.Runtime.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Web.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Newtonsoft.Json.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Owin.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.Helpers.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.Mvc.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.Optimization.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.Razor.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\WebGrease.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Web.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.Helpers.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.Mvc.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.Optimization.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.Razor.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Antlr3.Runtime.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\Newtonsoft.Json.xml
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csprojAssemblyReference.cache
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csproj.CopyComplete
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.pdb
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\JuegoCromy.dll
+C:\Users\ppabl\Desktop\Piew\Proyectos\Cartas\SignalR-Demo\NotificationApp\bin\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\csc.exe
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\vbc.exe
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\NotificationApp.dll.config
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\NotificationApp.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\NotificationApp.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Antlr3.Runtime.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Web.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Security.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Newtonsoft.Json.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Owin.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.Helpers.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.Mvc.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.Optimization.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.Razor.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\WebGrease.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\JuegoCromy.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.Web.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Microsoft.Owin.Security.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.Helpers.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.Mvc.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.Optimization.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.Razor.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Antlr3.Runtime.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\Newtonsoft.Json.xml
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csprojAssemblyReference.cache
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csproj.CoreCompileInputs.cache
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.csproj.CopyComplete
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.dll
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\obj\Debug\NotificationApp.pdb
+C:\Users\ppabl\Desktop\SignalR-Demo\NotificationApp\bin\JuegoCromy.dll
